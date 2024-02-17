@@ -1,4 +1,4 @@
-Csharp1-pendu
+#Csharp1-pendu
 C# EXERCICE 2 - le jeu du pendu
 
 2ème projet en C#
